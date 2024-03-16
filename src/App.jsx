@@ -1,5 +1,5 @@
 import Header from "./Header"
-import Pokemon from "./Pokemon"
+import Pokedex from "./Pokedex"
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Header/>
-    <Pokemon/>
+    <Pokedex/>
     </>
   )
 }
